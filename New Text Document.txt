@@ -1,0 +1,17 @@
+srs requirements:
+ write what should program do in natural langauge
+it should not be long and every one should be like one sentence 
+
+
+who has the problem
+what is the problem
+
+agile method
+ux ui
+
+scrum:
+creat user stories.
+
+agial.
+do what to you want.
+
